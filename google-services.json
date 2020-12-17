@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "655661094296",
+    "firebase_url": "https://fir-xamarin-a307f-default-rtdb.firebaseio.com",
+    "project_id": "fir-xamarin-a307f",
+    "storage_bucket": "fir-xamarin-a307f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655661094296:android:e95d35fc503cd1ec2887ed",
+        "android_client_info": {
+          "package_name": "com.companyname.firebasexamarin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655661094296-37gh1ndgehpe2psjeat80j57jb4un1ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu0X7trurtC7YgAG6Jopi_tgK_Ra6VIzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655661094296-37gh1ndgehpe2psjeat80j57jb4un1ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
